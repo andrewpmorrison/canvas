@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Access Report Data
-// @namespace   https://github.com/jamesjonesmath/canvancement
+// @namespace   https://github.com/andymorrison/canvas
 // @description Generates a .CSV download of the access report for all students
 // @include     https://canvas.anglia.ac.uk/courses/*/users
 // @require     https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.js
